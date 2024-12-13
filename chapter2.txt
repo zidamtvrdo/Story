@@ -1,1 +1,1 @@
-Hello this is chapter2 we have moving forward in learning git.
+Hello this is chapter2[More Plot changing] we have moving forward in learning git. 
